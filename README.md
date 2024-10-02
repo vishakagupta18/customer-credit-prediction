@@ -32,6 +32,11 @@ In this financial analysis for stock fraud detection, several tools and techniqu
 
       [Credit Score Classification Prediction - Python Code Link](./Credit_Score_Prediction.ipynb)
 
+These tools collectively enhance the financial analysis process by ensuring data integrity, extracting valuable insights, and applying machine learning for fraud detection.
+
+### Data Visualisation
+Visualized data to highlight companies’ financial health, profitability, and risk levels. Identified high-risk companies and those with significant debt growth.
+
       **Numerical Data Distribution**
    
       ![Numerical Data Distribution](./images/Numerical-data-distribution.png)
@@ -47,24 +52,11 @@ In this financial analysis for stock fraud detection, several tools and techniqu
       **Confusion Matrix**
    
       ![Confusion Matrix](./images/confusion-matrix.png)
-   
-These tools collectively enhance the financial analysis process by ensuring data integrity, extracting valuable insights, and applying machine learning for fraud detection.
-
-### Data Visualisation
-Visualized data to highlight companies’ financial health, profitability, and risk levels. Identified high-risk companies and those with significant debt growth.
-
- - Pivot Table
-   
-  ![Financial Dashboard Analysis](./stock-fraud-images/Pivot-Table.png)
-
- - Tableau Dashboard
-   
-  ![Financial Dashboard](./stock-fraud-images/Tableau-dashboard.png)
 
 ### Impact
 Provided a robust tool for stakeholders to make informed decisions regarding investments and risk management
 
 ### Key Achievements
-Key Achievements: Developed a logistic regression model with 92.40% accuracy for fraud detection. Identified significant financial metrics impacting company performance.
+Key Achievements: Developed a logistic regression model with 99.70% accuracy for fraud detection. Identified significant financial metrics impacting company performance.
 
 
