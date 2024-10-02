@@ -32,13 +32,21 @@ In this financial analysis for stock fraud detection, several tools and techniqu
 
       [Stock Fraud Detection - Python Code Link](./FinancialAnalysis-StockFraudPrediction.ipynb)
 
-      **Fraud or Non-Fraud Plot**
+      **Numerical Data Distribution**
    
-      ![Fraud or NonFraud Plot](./stock-fraud-images/Fraud-NonFraud-Plot.png)
+      ![Numerical Data Distribution](./images/Numerical-data-distribution.png)
    
+      **Categorical Count Plot**
+   
+      ![Categorical Count Plot](./images/categorical-count-plot.png)
+
+      **Correlation Heatmap With New Features**
+   
+      ![Correlation Heatmap With New Features](./images/Correlation-heatmap-new-features.png)
+
       **Confusion Matrix**
    
-      ![Confusion Matrix](./stock-fraud-images/confusion-matrix.png)
+      ![Confusion Matrix](./images/confusion-matrix.png)
    
 These tools collectively enhance the financial analysis process by ensuring data integrity, extracting valuable insights, and applying machine learning for fraud detection.
 
